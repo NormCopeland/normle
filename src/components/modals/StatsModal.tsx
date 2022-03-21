@@ -64,7 +64,7 @@ export const StatsModal = ({
         gameStats={gameStats}
         numberOfGuessesMade={numberOfGuessesMade}
       />
-      {(isGameLost || isGameWon) && (
+      {/* {(isGameLost || isGameWon) && (
         <div className="mt-5 sm:mt-6 columns-2 dark:text-white">
           <div>
             <h5>{NEW_WORD_TEXT}</h5>
@@ -91,7 +91,7 @@ export const StatsModal = ({
             {SHARE_TEXT}
           </button>
         </div>
-      )}
+      )} */}
     </BaseModal>
   )
 }
