@@ -30,7 +30,7 @@ export const Navbar = ({
           </a>
         </div>
 
-        <p className="text-xl ml-2.5 font-bold dark:text-lime-500 text-green-600">
+        <p className="text-xl ml-2.5 font-bold dark:text-lime-500 text-lime-500">
           🦎 {GAME_TITLE} 🐢
         </p>
 
