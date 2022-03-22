@@ -64,6 +64,11 @@ export const StatsModal = ({
         gameStats={gameStats}
         numberOfGuessesMade={numberOfGuessesMade}
       />
+      <a href="/">
+        <button className="rounded px-8 bg-lime-500 dark:text-white text-slate-600">
+          Play Again
+        </button>
+      </a>
       {/* {(isGameLost || isGameWon) && (
         <div className="mt-5 sm:mt-6 columns-2 dark:text-white">
           <div>
