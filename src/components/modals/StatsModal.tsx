@@ -59,7 +59,7 @@ export const StatsModal = ({
         gameStats={gameStats}
         numberOfGuessesMade={numberOfGuessesMade}
       />
-      <a href="/">
+      <a href="https://normcopeland.github.io/normle">
         <button className="rounded px-8 bg-lime-500 dark:text-white text-slate-600">
           Play Again
         </button>

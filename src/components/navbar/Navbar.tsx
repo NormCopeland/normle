@@ -25,7 +25,7 @@ export const Navbar = ({
             className="h-6 w-6 mr-2 cursor-pointer dark:stroke-white"
             onClick={() => setIsInfoModalOpen(true)}
           />
-          <a href="/">
+          <a href="https://normcopeland.github.io/normle">
             <RefreshIcon className="h-6 w-6 cursor-pointer dark:stroke-white" />
           </a>
         </div>
